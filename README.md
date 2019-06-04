@@ -1,4 +1,4 @@
 NodeProject
 ===========
 
-Node.js package example:math_example
+Learning project of Angular
